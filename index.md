@@ -1,6 +1,5 @@
-<div>
 <table border="0">
-  <tbody><tr>
+  <tr>
     <td width="75%">
       <h1>shawn</h1>
       <p><b>硕士研究生</b></p>
@@ -12,8 +11,7 @@
       <img src="/zhengjianzhao.jpg" width="100%">
      </td>
   </tr>
-</tbody></table>
-</div>
+</table>
 
 <hr>
 <p>张三，男，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介
