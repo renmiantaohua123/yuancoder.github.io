@@ -1,5 +1,4 @@
 <html>
-
 <body marginheight="0"><div>
 <table border="0">
   <tbody><tr>
@@ -10,9 +9,7 @@
       <p><b>邮箱：wsy_shawn@mail.bnu.edu.cn</b></p>
       <p><b>地址：北京市市海淀区北京师范大学，科技楼</b></p>
     </td>
-    <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
-    </td>
+   
   </tr>
 </tbody></table>
 </div>
