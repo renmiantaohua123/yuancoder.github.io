@@ -1,3 +1,4 @@
+<body background="/zhengjianzhao.jpg">
 <table border="0">
   <tr>
     <td width="75%">
@@ -9,7 +10,7 @@
     </td>
   </tr>
 </table>
-
+</body>
 <hr>
 <p>
   擅长socket网络编程和算法，从小牛开始向大牛进发！！！
